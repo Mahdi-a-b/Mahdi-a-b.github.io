@@ -1,0 +1,42 @@
+body{
+    font-family: IRANSans;
+    font-size: normaL;
+    font-weight: bold;
+    src: url(./font/IRANSansWeb_Bold.ttf);
+}
+.onvaneasli{
+    font-size: 75px;
+    color: #FF1A1A;
+    margin-top: -25px;
+    margin-bottom: -15px;
+
+}
+
+.onvanefarei{
+    margin-top: 15px;
+    color: Black;
+}
+
+.onvanakhar{
+    margin-top: 15px;
+    color: #606060;
+}
+.frstbtn{
+    margin-top: 15px;
+    text-align: center;
+}
+.btnstyle{
+    background: #FF1A1A;
+    border: none;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 15px;
+}
+.tblmosavabat{
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.btnlogo{
+    width: 47px;
+    margin: -15px;
+}
